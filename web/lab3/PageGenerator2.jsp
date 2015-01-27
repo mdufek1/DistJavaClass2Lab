@@ -15,6 +15,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <h2><a href='../index.html'>&#8592; Go back to index.</a></h2>
     <center>
         <h1 style="color:<%= color %>;">This is a JSP generated page!</h1>
         
